@@ -1,3 +1,6 @@
-Página portfólio da Julia Diniz.
+Thanks for downloading this template!
 
-Link: https://business-rs.github.io/Fashion-Diniz/
+Template Name: julia.diniz
+Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
+Author: BootstrapMade.com
+License: https://bootstrapmade.com/license/
